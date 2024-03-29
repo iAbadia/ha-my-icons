@@ -12,3 +12,7 @@ It is advised to install via HACS (Home Assistand Community Store).
 4. Add this repository `https://github.com/iAbadia/ha-my-icons`
 5. **Custom Icons Pack** should be shown as a new repository available to install. Click **INSTALL** then **INSTALL**
 6. Confirm you wish to **RELOAD** the UI
+
+## Helpful tools for development
+- https://yqnn.github.io/svg-path-editor/
+- https://www.svgviewer.dev/
