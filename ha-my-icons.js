@@ -31,7 +31,7 @@ async function getIcon(name) {
             console.log(`Aliased "${name}" with "${new_name}"`);
             return {
                 path: ICONS_MAP[new_name].path,
-                viewBoxÑ 
+                viewBox: ICONS_MAP[new_name].viewBox,
             };
         }
     }
